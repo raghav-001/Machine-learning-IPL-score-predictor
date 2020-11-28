@@ -1,1 +1,2 @@
 # Machine-learning-IPL-score-predictor
+This machine learning based project developed using python predicts the score achieved by an IPL team by means of using the batting team strength, ball by ball statistics of the previous matches and serves as a much stronger alternative for D/L method that is usually used in cricket. For training the dataset, random forest regressor has been used which proved efficient for this algorithm.
